@@ -3,7 +3,7 @@
 void main(){
     //****1Summ on n number ***
     /*int n;
-    scanf("%d",&n);
+    //scanf("%d",&n);
     int s=n*(n+1)/2;
     printf("%d",s);*/
 

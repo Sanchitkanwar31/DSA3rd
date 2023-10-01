@@ -1,2 +1,2 @@
 #include<stdio.h>
-oid main(){}
+void main(){}

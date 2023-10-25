@@ -118,6 +118,17 @@ int lcm(int a,int b){
     
 }*/
 
+//*********Factorial*******
+int fact(int a){
+    int x=1;
+    for(int i=a;i>0;i--){
+        x=x*i;
+        }
+    return x;
+}
+
+
+
 void main(){
 
    //printf("LCM is %d",lcm(3,4));
